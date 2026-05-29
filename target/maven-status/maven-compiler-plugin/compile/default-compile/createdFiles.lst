@@ -1,0 +1,9 @@
+com\extezany\mapper\PersonaMapper.class
+com\extezany\exception\ResourceNotFoundException.class
+com\extezany\entity\Persona.class
+com\extezany\resource\PersonaResource.class
+com\extezany\repository\PersonaRepository.class
+com\extezany\dto\PersonaResponseDTO.class
+com\extezany\service\PersonaService.class
+com\extezany\exception\GlobalExceptionHandler.class
+com\extezany\dto\PersonaRequestDTO.class

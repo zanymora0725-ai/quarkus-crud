@@ -1,0 +1,9 @@
+C:\Users\extezany.mora\quarkus-crud\src\main\java\com\extezany\dto\PersonaRequestDTO.java
+C:\Users\extezany.mora\quarkus-crud\src\main\java\com\extezany\dto\PersonaResponseDTO.java
+C:\Users\extezany.mora\quarkus-crud\src\main\java\com\extezany\entity\Persona.java
+C:\Users\extezany.mora\quarkus-crud\src\main\java\com\extezany\exception\GlobalExceptionHandler.java
+C:\Users\extezany.mora\quarkus-crud\src\main\java\com\extezany\exception\ResourceNotFoundException.java
+C:\Users\extezany.mora\quarkus-crud\src\main\java\com\extezany\mapper\PersonaMapper.java
+C:\Users\extezany.mora\quarkus-crud\src\main\java\com\extezany\repository\PersonaRepository.java
+C:\Users\extezany.mora\quarkus-crud\src\main\java\com\extezany\resource\PersonaResource.java
+C:\Users\extezany.mora\quarkus-crud\src\main\java\com\extezany\service\PersonaService.java
